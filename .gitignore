@@ -1,0 +1,13 @@
+# Editors
+.vscode/
+.idea/
+
+# Common Python virtual environment folders
+.venv/
+venv/
+env/
+ENV/
+*.venv/
+*.env/
+
+.DS_Store
